@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)**
+**Song Used: [SOLLICITUS II](https://soundcloud.com/ragher/swapped-realities-sollicitus-updated)**
 
 **Song Creator: [Judge](https://soundcloud.com/ragher)**
 
