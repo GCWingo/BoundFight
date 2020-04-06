@@ -1,7 +1,4 @@
-0,SansText,human... whats your                  purpose for doing this?,,,,
-0,SansText,you must be doing this                    just to watch us               suffer.,,,,
-0,SansHead,NoEyes,,
-0,SansText,heh... typical of               humanity...,,,,
+0,SansText,...,,,,
 0.5,CombatZoneResizeInstant,209,226,435,391,,,,;
 0,HeartMode,1,,,,,,,
 0,HeartTeleport,320,304,,,,,,
@@ -18,3 +15,5 @@
 4,BoneStab,3,100,1,1,;
 0.3,SansAnimation,Idle,,;
 5,EndAttack,,,;
+
+
