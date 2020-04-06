@@ -1,8 +1,7 @@
 # Attention
-**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, the "Infinite Loop Detected" function, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundFightRemastered to play!**
+**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundFightRemastered to play!**
 
-[**Wiki**](https://github.com/kayos156/BoundFight/wiki)
-________________________________________________________________________________
+_______________________
 
 # Credit
 
@@ -12,11 +11,9 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [SOLLICITUS III](https://soundcloud.com/ragher/undertale-au-swapped-realites-ost-100-sollicitus-original)**
+**Song Used: [breaking the limit](https://youtu.be/GEdiuTzD4Aw)**
 
-**Song Creator: [Judge](https://soundcloud.com/ragher)**
-
-**Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
+**Song Creator: [solunary](https://m.youtube.com/channel/UCw7T4toDEYFhFz5S_DsJCPQ)**
 ________________________________________________________________________________
 
 # Updates
