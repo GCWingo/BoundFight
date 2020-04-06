@@ -15,7 +15,6 @@
 0,SansText,a b o u t  w h a t         h e l l  f e e l s            l i k e .,,,,,,,,
 0.5,BlackScreen,1,,,,;
 0,Sound,Flash,,,,,;
-0,Sound,Ding,,;
 0.77777,BlackScreen,0,,,,,;
 0,SansHead,NoEyes,,,;
 0,CombatZoneResizeInstant,239,226,404,391,,,,;
@@ -47,7 +46,6 @@
 2.1,GasterBlaster,1,100,0,265,330,180,0.6,1;
 0.1,GasterBlaster,1,100,0,265,300,180,0.6,1;
 1.5,SansHead,NoEyes,,,;
-0,Sound,Ding,,;
 1,CombatZoneResizeInstant,239,226,404,391,,,,;
 0,HeartMode,0,,,,;
 0.2,HeartTeleport,310,304,,,,,,;
