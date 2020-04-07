@@ -2,7 +2,6 @@
 0,SansText,well you can still go                      back on that choice....,,,,
 0,SansText,but from now on...,,,,
 1,SansHead,BlueEye,,,,,,,,
-0,Sound,mus_zz_megalovania,0.9,,,,,
 0,SansText,all you will feel is                        E.X.T.R.A.C.A.R.I.C.H.R.O.M.E.,,,,
 0.5,SansHead,NoEyes,,,,,,,,
 0,HeartMode,0,,,,,,,
@@ -43,5 +42,6 @@
 0,GasterBlaster,1,0,0,321,166,90,0.3,0.1
 0,GasterBlaster,1,0,0,449,306,180,0.3,0.1
 0,GasterBlaster,1,0,0,321,446,270,0.3,0.1
-2,EndAttack,,,,,,,
+2,Sound,mus_zz_megalovania,1,,,,,
+0,EndAttack,,,,,,,
 
