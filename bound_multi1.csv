@@ -7,7 +7,7 @@
 0,HeartMode,0,,,,,,,
 0,CombatZoneResize,241,226,406,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
-
+0,Sound,mus_zz_megalovania,1,,,,,
 0,GasterBlaster,1,0,0,191,306,0,0.3,0.1
 0,GasterBlaster,1,0,0,321,166,90,0.3,0.1
 0,GasterBlaster,1,0,0,449,306,180,0.3,0.1
@@ -42,6 +42,5 @@
 0,GasterBlaster,1,0,0,321,166,90,0.3,0.1
 0,GasterBlaster,1,0,0,449,306,180,0.3,0.1
 0,GasterBlaster,1,0,0,321,446,270,0.3,0.1
-2,Sound,mus_zz_megalovania,1,,,,,
-0,EndAttack,,,,,,,
+2,EndAttack,,,,,,,
 
