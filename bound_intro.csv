@@ -7,10 +7,11 @@
 0,SansText,we could gaze upon            constellations.                      sit by the fire...,,,,,,,,
 0.5,SansHead,ClosedEyes,,,,,,,,
 0,SansText,i could tell you some      interesting stories...,,,,,,,,
-0,SansText,you know...,,,,,,,,
-0,SansText,im supposed to say:,,,,,,,,
-0,SansText,about what hell                           feels like.,,,,,,,,
-0,SansText,but...,,,,,,,,
+1,SansText,...,,,,,,,,
+1,SansText,you know...,,,,,,,,
+1,SansText,im supposed to say:,,,,,,,,
+0,SansText,about what hell feels                                like.,,,,,,,,
+1,SansText,but...,,,,,,,,
 0.5,BlackScreen,1,,,,;
 0,Sound,Flash,,,,,;
 0.5,SansHead,NoEyes,,,,,,,,
