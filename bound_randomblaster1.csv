@@ -4,7 +4,6 @@
 0,CombatZoneResize,121,186,526,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
-0,TLPause,,,,,,,,
 0.5,SET,Loop,38,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Ang,360,,,,,,
