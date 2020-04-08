@@ -1,13 +1,47 @@
 0,Sound,mus_zz_megalovania,0,,,,,,,,,,,,,,,,,,,,
-0,Sound,finale,0,,,,,
 0.5,SansHead,NoEyes,,,,,,,,
-1,SansText,do you know what you                    do when you have                   a serious problem?,,,,,,,
 1,SansText,...,,,,,,,
-0,SansHead,BlueEye,,,,,,,,
-0,SansText,YOU TAKE THEM OUT,,,,,,,
-0,Sound,finale,0,,,,,
+1,SansText,you dont understand how                                  this feels kid.,,,,,,,
+1,SansText,knowing that one day                                 without any warning...,,,,,,,
+0,SansText,its all going to be                                  reset.,,,,,,,
+1,SansText,you never will...,,,,,,,
+1,SansText,of course you never                                will...,,,,,,,
+0,SansText,you never get to                  experience the feeling of                             losing everything youve                     worked on out...,,,,,,,
+0,SansText,because why else did i                             even become lazy in                            the first place?,,,,,,,
+1,SansText,you never get to                 experience the feeling                       of losing your loved                    one,,,,,,,
+0,SansText,just because you cant                              do anything about it...,,,,,,,
+1,SansText,you will never get to                             experience having to                    enter a fight you cannot                            win.,,,,,,,
+0,SansText,to be brought back to                             life just to kick the                            bucket once again                           because of it.,,,,,,,
+0,SansText,and no matter how hard                            we fight for our lives...,,,,,,,
+0,SansText,in the end its a battle                             we cannot win.,,,,,,,
+0,SansText,and not even the                 measures i took to at                     least have a chance                         against you change that.,,,,,,,
+0,SansText,for all i know this                                effort will be in vain.,,,,,,,
+1,SansText,and even if i realize                              the bigger picture now...,,,,,,,
+0,SansText,im still just going to                                die.,,,,,,,
+0,SansText,and im still going to                               forget everything from                        up to this point.,,,,,,,
+0,SansText,and we will be                             slaughtered without even                       knowing it all over                              again.,,,,,,,
+1,SansText,i know this fight is                                  unwinable.,,,,,,,
+0,SansText,if anything...,,,,,,,
+0,SansText,the fact that i know i                              cant win should have                            pretty much discouraged                   WINGO.,,,,,,,
+3,SansText,...,,,,,,,
 0,Sound,ding,1,,,,,,
-1,SansHead,NoEyes,,,,,,,,
+0,SansText,but im not throwing in                         the towel just yet.,,,,,,,
+1,SansText,...,,,,,,,
+1,SansText,because even if this                                 fight is unwinnable,,,,,,,
+0,SansText,i am willing to give it                             my all.,,,,,,,
+0,SansText,its not like i have                                  another choice...,,,,,,,
+0,SansText,i am willing to bring                                you to justice.,,,,,,,
+0,SansText,well someone has to                                   right?,,,,,,,
+0,SansText,someones gotta hold you                              responsible for your                              terrible actions.,,,,,,,
+0,SansText,i am willing to put you                             to place.,,,,,,,
+0,SansText,and even if i fail...,,,,,,,
+1,SansText,at least i die with a                                 feeling of satisfaction.,,,,,,,
+0,SansText,that i really got to                                  see who you really are.,,,,,,,
+1,SansText,i only got this one                                  chance.,,,,,,,
+0,SansText,so i cant screw it up.,,,,,,,
+1,SansText,repare yourself kid...                                 or whatever you are.,,,,,,,
+0,SansText,because your about to                                  get dunked on even                               harder than before.,,,,,,,
+0,SansHead,NoEyes,,,,,,,,
 0,HeartMode,0,,,,,,,
 0,CombatZoneResize,241,226,406,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
@@ -233,6 +267,88 @@
 0,HeartMaxFallSpeed,600,,,,,,,
 0.1,SansSlam,1,,,,,,,
 0.2,BoneStab,1,29,0.4,0.1,,,,
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartMode,0,,,,,,,
+0.2,SansHead,Default,,,,,,,
+
+
+
+
+
+0.3,SansHead,NoEyes,,
+
+
+
+
+
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,,
+0.2,SansHead,Default,,,,,,,
+0.05,SansSlam,2,,,,,,,
+0,SansBody,HandLeft,,,,,,,
+0,BoneStab,2,30,0.3,0.5,,,,
+0.6,SansSlam,0,,,,,,,
+0,SansBody,HandRight,,,,,,,
+0,BoneStab,0,30,0.3,0.5,,,,
+0,GasterBlaster,1,0,0,269,166,90,0.333,0.8
+0,GasterBlaster,1,640,480,369,446,270,0.333,0.8
+0.6,SansSlam,1,,,,,,,
+0,SansBody,HandDown,,,,,,,
+0,BoneStab,1,30,0.3,0.5,,,,
+0.6,SansSlam,3,,,,,,,
+0,SansBody,HandUp,,,,,,,
+0,BoneStab,3,30,0.3,0.5,,,,
+0.7,SansAnimation,Idle,,,,,,,
+0,HeartMode,0,,,,,,
+0,BoneHRepeat,130,-10,200,1,500,7,183
+0,BoneHRepeat,330,650,200,3,500,7,183
+0,GasterBlaster,1,0,0,189,226,0,0.333,1.6
+0,GasterBlaster,1,640,480,449,386,180,0.333,1.6
+2.6666666,SansTorso,Default,,,,,,
+0,SansBody,HandLeft,,,,,,,
+0.2,SansSlam,2,,,,,,,
+0.3,BoneStab,2,40,0.3,0.3,,,,
+0,GasterBlaster,1,0,0,189,246,0,0,0
+0,GasterBlaster,1,0,0,259,166,90,0,0
+0,GasterBlaster,1,640,480,449,366,180,0,0
+0,GasterBlaster,1,640,480,379,446,270,0,0
+0.5,SansBody,HandRight,,,,,,,
+0.2,HeartMaxFallSpeed,450,,,,,,,
+0,SansSlam,0,,,,,,,
+0,CombatZoneResizeInstant,241,226,449,391,,,,
+0,CombatZoneSpeed,900,,,,,,,
+0,CombatZoneResize,241,226,650,391,,,,
+0.33333,HeartMaxFallSpeed,-370,,,,,,,
+0,SansAnimation,Idle,,,,,,,
+0,CombatZoneResize,-10,226,650,391,,,,
+0.3,CombatZoneSpeed,30,,,,,,,
+0,CombatZoneResize,-10,264,650,369,,,,
+0.9,GetHeartPos,HeartX,HeartY,,,,,,
+0,HeartTeleport,40,$HeartY,,,,,,
+0,HeartMaxFallSpeed,0,,,,,,,
+0,SansSlam,0,,,,,,,
+1,HeartMaxFallSpeed,330,,,,,,,
+0,SansSlam,1,,,,,,,
+0,SansBody,HandDown,,,,,,,
+0,GasterBlaster,0.7,640,346,560,346,180,0,0
+0.7,SansSlam,3,,,,,,,
+0,SansBody,HandUp,,,,,,,
+0,GasterBlaster,0.7,640,286,560,286,180,0,0
+0.7,SansSlam,1,,,,,,,
+0,SansBody,HandDown,,,,,,,
+0,GasterBlaster,0.7,640,286,560,286,180,0,0
+0,BoneStab,1,36,0.4,0.2,,,,
+0.7,SansSlam,3,,,,,,,
+0,SansBody,HandUp,,,,,,,
+0,GasterBlaster,0.7,640,346,560,346,180,0,0
+0,BoneStab,3,36,0.4,0.2,,,,
+
+
+
+
+
+
 0,SansAnimation,Idle,,,,,,,
 0.6,HeartMode,0,,,,,,,
 0,SansSweat,2,,,,,,,
@@ -248,111 +364,17 @@
 0,HeartTeleport,320,320,,,,,,
 0.6666,BlackScreen,0,,,,,,,
 0,CombatZoneResizeInstant,270,270,370,370,,,,
-2,SansText,alright...,,,,
-2,SansText,now...,,,,
-5,SansHead,BlueEye,,,,,,,,
-0,SansText,IT WONT EVEN TAKE               A SECOND TO FINISH                  YOU OFF.,,,,
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-2,SansText,you think your clever                     huh?,,,,
-1,SansText,well i knew this would              happen...,,,,
-0,SansText,so i thought ahead...,,,,
-4,SansText,welp. here it goes...,,,,
-2,SansText,dont say i didnt                        warn you.,,,,
+1,Sound,PlayerFight,,,
+0,BlackScreen,1,,
+0.2,BlackScreen,0,,
+0,SansRepeat,,
+0,SansTorso,Default,,,
+0,SansHead,Default,,
+0.2,SansEndRepeat,,,
+0,SansAnimation,Idle,,
+1,SansText,did you really think you                     were gonna be able t-,,,,,,,
+0,Sound,PlayerFight,,,
+0,BlackScreen,1,,
+0,Sound,ding,0,,,,,,
+0.77777,BlackScreen,0,,,,,;
 0,EndAttack,,,
