@@ -24,7 +24,6 @@
 0,BoneStab,1,95,0.3666,0.1666,,;
 0.6,SansBody,Handleft,,;
 0,SansHead,NoEyes,,,;
-0.1,Sound,Ding,,;
 0,CombatZoneResizeInstant,10,226,204,391,,,,;
 0,HeartTeleport,100,270,,;
 0,SansBody,HandLeft,,;
