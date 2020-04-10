@@ -8,17 +8,17 @@
 0.5,SansHead,ClosedEyes,,,,,,,,
 0,SansText,i could tell you some      interesting stories...,,,,,,,,
 0.5,BlackScreen,1,,,,;
-0,Sound,Flash,,,,,;
-0.5,SansHead,NoEyes,,,,,,,,
-0.77777,BlackScreen,0,,,,,;
-0,Sound,Flash,,,,,;
-0,SansText,ABOUT WHAT HELL FEELS                       LIKE.,,,,,,,,
-0,SansHead,NoEyes,,,;
 0,CombatZoneResizeInstant,239,226,404,391,,,,;
 0,HeartMode,1,,,,;
 0,HeartTeleport,310,304,,,,,,;
+0,Sound,Flash,,,,,;
+0,SansHead,NoEyes,,,,,,,,
+0.77777,BlackScreen,0,,,,,;
+0,Sound,Flash,,,,,;
+0,SansText,ABOUT WHAT HELL IS                       LIKE.,,,,,,,,
+0,SansHead,NoEyes,,,;
 0,Sound,mus_zz_megalovania,0,,,,,;
-0.6,SansBody,HandUp,,,;
+1.6,SansBody,HandUp,,,;
 0,SansSlam,3,,,;
 0,BoneStab,3,35,0.5666,0.1666,,;
 0,BoneStab,1,95,0.3666,0.1666,,;
