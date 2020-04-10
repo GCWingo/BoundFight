@@ -8,12 +8,12 @@
 0.5,SansHead,ClosedEyes,,,,,,,,
 0,SansText,i could tell you some      interesting stories...,,,,,,,,
 0.5,BlackScreen,1,,,,;
-0,CombatZoneResizeInstant,239,226,404,391,,,,;
 0,HeartMode,1,,,,;
 0,HeartTeleport,310,304,,,,,,;
 0,Sound,Flash,,,,,;
 0,SansHead,NoEyes,,,,,,,,
 0.77777,BlackScreen,0,,,,,;
+0,CombatZoneResizeInstant,10,226,204,391,,,,;
 0,Sound,Flash,,,,,;
 0,SansText,ABOUT WHAT HELL IS                       LIKE.,,,,,,,,
 0,SansHead,NoEyes,,,;
@@ -24,7 +24,6 @@
 0,BoneStab,1,95,0.3666,0.1666,,;
 0.6,SansBody,Handleft,,;
 0,SansHead,NoEyes,,,;
-0,CombatZoneResizeInstant,10,226,204,391,,,,;
 0,HeartTeleport,100,270,,;
 0,SansBody,HandLeft,,;
 0,SansSlam,2,,,;
