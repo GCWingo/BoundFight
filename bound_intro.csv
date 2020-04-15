@@ -34,6 +34,7 @@
 0,Sound,Slam,,;
 0,SansTorso,Default,,;
 0.2,HeartMode,0,,;
+0.2,HeartTeleport,310,304,,,,,,;
 0.4,BoneVRepeat,128,257,35,0,150,8,103;
 0.4,BoneVRepeat,128,297,35,0,150,8,103;
 0.7,GasterBlaster,1,100,0,265,364,180,0.7,1;
