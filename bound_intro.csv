@@ -22,9 +22,7 @@
 0,SansSlam,3,,,;
 0,BoneStab,3,35,0.5666,0.1666,,;
 0,BoneStab,1,95,0.3666,0.1666,,;
-0.6,SansBody,Handleft,,;
-0,SansHead,NoEyes,,,;
-0,HeartTeleport,100,270,,;
+0.6,SansHead,NoEyes,,,;
 0,SansBody,HandLeft,,;
 0,SansSlam,2,,,;
 0,BoneStab,2,35,0.4555,0.2,,;
@@ -34,13 +32,12 @@
 0,Sound,Slam,,;
 0,SansTorso,Default,,;
 0.2,HeartMode,0,,;
-0.2,HeartTeleport,310,304,,,,,,;
 0.4,BoneVRepeat,128,257,35,0,150,8,103;
 0.4,BoneVRepeat,128,297,35,0,150,8,103;
-0.7,GasterBlaster,1,100,0,265,364,180,0.7,1;
-1.0,GasterBlaster,0,100,0,265,242,180,0.7,1;
-2.1,GasterBlaster,1,100,0,265,330,180,0.6,1;
-0.1,GasterBlaster,1,100,0,265,300,180,0.6,1;
+0.7,GasterBlaster,1,300,0,500,364,180,0.7,1;
+1.0,GasterBlaster,0,300,0,500,242,180,0.7,1;
+2.1,GasterBlaster,1,300,0,500,330,180,0.6,1;
+0.1,GasterBlaster,1,300,0,500,300,180,0.6,1;
 1.5,SansHead,NoEyes,,,;
 1,CombatZoneResizeInstant,239,226,404,391,,,,;
 0,HeartMode,0,,,,;
@@ -71,4 +68,3 @@
 0.2,SansText,too much...?,,,;
 0,Sound,mus_zz_megalovania,1,,,,,,,,,,,,,,,,,,,,
 0,EndAttack,,,;
-
