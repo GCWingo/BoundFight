@@ -67,14 +67,20 @@
 0,Sound,BoneStab,,,
 
 0.1,HeartMode,0,,;
-0.1,BoneStab,1,30,2,2,;
-0.1,BoneStab,3,30,2,2,;
-0.1,BoneStab,0,25,2,2,;
-0,BoneStab,2,25,2,2,;
 0,Sound,GasterBlaster,,;
-0,GasterBlaster,1,,0,200,210,20,1.7,2;
-0,GasterBlaster,1,,0,40,290,20,1.7,2;
-0,GasterBlaster,1,,0,440,200,120,1.7,2;
+0.5,GasterBlaster,1,0,0,191,176,45,0.3,0.1
+0,GasterBlaster,1,0,0,451,176,135,0.3,0.1
+0,GasterBlaster,1,0,0,451,436,225,0.3,0.1
+0,GasterBlaster,1,0,0,191,436,315,0.3,0.1
+
+0.7,GasterBlaster,1,0,0,191,246,0,0.3,0.1
+0,GasterBlaster,1,0,0,259,166,90,0.3,0.1
+0,GasterBlaster,1,0,0,449,366,180,0.3,0.1
+0,GasterBlaster,1,0,0,379,446,270,0.3,0.1
+
+1,HeartMode,1,,;
+0.1,BoneStab,1,30,0.2,999,;
+0.1,BoneStab,3,30,0.2,999,;
 
 6,SansTorso,Default,,,
 0,SansText,was that...,,,;
