@@ -2,12 +2,16 @@
 0,Sound,mus_zz_megalovania,0,,,,,
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-1,SansHead,Default,,,,,,,
-0,SansText,its a nice night isn't it?,,,,,,,
-0,SansText,we could gaze upon            constellations.                      sit by the fire...,,,,,,,,
+0,SansText,its a beatiful day                     outside.,,,,,,,
+0,SansText,the birds are singing                    the flowers are                 blooming.,,,,,,,,
 0.5,SansHead,ClosedEyes,,,,,,,,
-0,SansText,i could tell you some      interesting stories...,,,,,,,,
-0.5,BlackScreen,1,,,,;
+0,SansText,on days like these                    kids like you...,,,,,,,,
+1,SansHead,Default,,
+1,SansText,yknow. im supposed to                            say.,,,,,,,,
+0.5,SansText,"should be burning in                         hell.",,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+1,SansText,but...,,,,,,,
+1.5,BlackScreen,1,,,,;
 0,HeartMode,1,,,,;
 0,HeartTeleport,310,304,,,,,,;
 0,Sound,Flash,,,,,;
@@ -15,7 +19,7 @@
 0.77777,BlackScreen,0,,,,,;
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,Sound,Flash,,,,,;
-0,SansText,ABOUT WHAT HELL IS                       LIKE.,,,,,,,,
+0,SansText,youre already there.,,,,,,,,
 0,SansHead,NoEyes,,,;
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
