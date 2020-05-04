@@ -63,7 +63,8 @@
 0,BoneVRepeat,20,294,30,0,450,1,10,
 0.7,Sound,BoneStab,,,
 0,BoneVRepeat,20,294,30,0,450,1,10,
-0.7,BoneVRepeat,390,234,95,2,450,1,10,
+0.7,Sound,BoneStab,,,
+0,BoneVRepeat,20,294,30,0,450,1,10,
 0,Sound,BoneStab,,,
 
 0.1,HeartMode,0,,;
