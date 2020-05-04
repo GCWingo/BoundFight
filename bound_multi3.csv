@@ -1,5 +1,5 @@
 0,HeartTeleport,320,304,,,,,,
-0,SET,Loop,12,,,,,,
+0,SET,Loop,5,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.1,BlackScreen,0,,,,,,,
