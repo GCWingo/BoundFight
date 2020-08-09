@@ -385,6 +385,7 @@
 0,SansHead,Default,,,,,,,
 0.6,HeartMode,0,,,,,,,
 0,SansSweat,2,,,,,,,
+0,Sound,mus_zz_megalovania,1,,,,,,,,,,,,,,,,,,,,
 0.2,GasterBlaster,1,0,0,321,166,90,0,0
 0.125,GasterBlaster,1,0,0,256,171,67.5,0,0
 0.125,GasterBlaster,1,0,0,191,176,45,0,0
