@@ -50,9 +50,10 @@
 0.1,BoneStab,0,25,2,2,;
 0,BoneStab,2,25,2,2,;
 0,Sound,GasterBlaster,,;
-0,GasterBlaster,1,,0,200,210,20,1.7,2;
-0,GasterBlaster,1,,0,40,290,20,1.7,2;
-0,GasterBlaster,1,,0,440,200,120,1.7,2;
+0,GasterBlaster,1,0,0,191,306,0,0.3,0.1
+0,GasterBlaster,1,0,0,321,166,90,0.3,0.1
+0,GasterBlaster,1,0,0,449,306,180,0.3,0.1
+0,GasterBlaster,1,0,0,321,446,270,0.3,0.1
 0,SansTorso,Default,,;
 3,SansHead,Default,,;
 2,Sound,mus_zz_megalovania,1,,,,,;
