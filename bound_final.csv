@@ -25,7 +25,7 @@
 0,SansText,the fact that i know i                              cant win should have                            pretty much discouraged                   me.,,,,,,,
 3,SansText,...,,,,,,,
 
-0,Sound,ding,1,,,,,,
+
 
 0,SansText,but im not throwing in                         the towel just yet.,,,,,,,
 1,SansText,...,,,,,,,
@@ -43,6 +43,7 @@
 0,SansText,so i cant screw it up.,,,,,,,
 1,SansText,repare yourself kid...                                 or whatever you are.,,,,,,,
 0,SansText,because your about to                                  get dunked on even                               harder than before.,,,,,,,
+0,Sound,mus_zz_megalovania,1,,,,,,,,,,,,,,,,,,,,
 0,SansHead,NoEyes,,,,,,,,
 0,HeartMode,0,,,,,,,
 0,CombatZoneResize,241,226,406,391,TLResume,,,
